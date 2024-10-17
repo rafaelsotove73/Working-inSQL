@@ -45,8 +45,7 @@ SELECT * FROM INFORMATION_SCHEMA.SCHEMATA;
 SELECT * FROM INFORMATION_SCHEMA.TABLE_CONSTRAINTS;
 
 Cómo Usar
-1. 
-Clona el repositorio:
+1.Clona el repositorio:
 
 git clone https://github.com/tu-usuario/wok-sql.git
 
