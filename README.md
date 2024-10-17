@@ -4,7 +4,7 @@ Este repositorio contiene una colección de consultas Transact-SQL (T-SQL) de ni
 
 ## Estructura del Repositorio
 
-•  [**[SQLAltoNivel/](https://www.bing.com/search?form=SKPBOT&q=SQLAltoNivel%2F)**](https://www.bing.com/search?form=SKPBOT&q=%5BSQLAltoNivel%2F%5D%28https%3A%2F%2Fwww.bing.com%2Fsearch%3Fform%3DSKPBOT%26amp%3Bq%3DSQLAltoNivel%252F%29): Carpeta que contiene todas las consultas relacionadas con metadatos en SQL Server.
+•  [SQLAltoNivel] Carpeta que contiene todas las consultas relacionadas con metadatos en SQL Server.
 
 
 ## Contenido
@@ -12,8 +12,6 @@ Este repositorio contiene una colección de consultas Transact-SQL (T-SQL) de ni
 ### SQLAltoNivel
 
 En esta carpeta encontrarás consultas que te permitirán obtener información detallada sobre la estructura y los elementos de tu base de datos. Algunas de las consultas incluidas son:
-
-•  [**[Tablas y Vistas](https://www.bing.com/search?form=SKPBOT&q=Tablas%20y%20Vistas)**](https://www.bing.com/search?form=SKPBOT&q=%5BTablas%20y%20Vistas%5D%28https%3A%2F%2Fwww.bing.com%2Fsearch%3Fform%3DSKPBOT%26amp%3Bq%3DTablas%2520y%2520Vistas%29): Obtén información sobre todas las tablas y vistas en la base de datos.
 
 ```sql
 SELECT * FROM INFORMATION_SCHEMA.TABLES;
