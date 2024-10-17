@@ -59,11 +59,11 @@ cd wok-sql/SQLAltoNivel
 Abre los archivos .sql en tu editor de SQL preferido (por ejemplo, SQL Server Management Studio o Visual Studio Code) y ejecuta las consultas según tus necesidades.
 
 Descargas Recomendadas
-•  [Descargar SQL Server](https://www.bing.com/search?form=SKPBOT&q=%5BDescargar%20SQL%20Server%5D%28https%3A%2F%2Fwww.microsoft.com%2Fes-es%2Fsql-server%2Fsql-server-downloads%29): Obtén la última versión de SQL Server.
+•  [**Microsoft SQL Server**](https://www.bing.com/search?form=SKPBOT&q=Microsoft%20SQL%20Server): Puedes descargar la versión gratuita [aquí](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
 
-•  [Descargar SQL Server Management Studio (SSMS)](https://www.bing.com/search?form=SKPBOT&q=%5BDescargar%20SQL%20Server%20Management%20Studio%20%28SSMS%29%5D%28https%3A%2F%2Flearn.microsoft.com%2Fes-es%2Fsql%2Fssms%2Fdownload-sql-server-management-studio-ssms%3Fview%3Dsql-server-ver16%29): Herramienta para gestionar tu infraestructura SQL.
+•  [**SQL Server Management Studio (SSMS)**](https://www.bing.com/search?form=SKPBOT&q=SQL%20Server%20Management%20Studio%20%28SSMS%29): Herramienta gratuita para gestionar tu servidor SQL. Descárgala [aquí](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms).
 
-•  [Descargar bases de datos de ejemplo AdventureWorks](https://www.bing.com/search?form=SKPBOT&q=%5BDescargar%20bases%20de%20datos%20de%20ejemplo%20AdventureWorks%5D%28https%3A%2F%2Flearn.microsoft.com%2Fes-es%2Fsql%2Fsamples%2Fadventureworks-install-configure%3Fview%3Dsql-server-ver16%29): Bases de datos de ejemplo para practicar.
+•  [**Descargar bases de datos de ejemplo AdventureWorks**](https://www.bing.com/search?form=SKPBOT&q=%5BDescargar%20bases%20de%20datos%20de%20ejemplo%20AdventureWorks%5D%28https%3A%2F%2Flearn.microsoft.com%2Fes-es%2Fsql%2Fsamples%2Fadventureworks-install-configure%3Fview%3Dsql-server-ver16%29): Bases de datos de ejemplo para practicar.
 
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes consultas adicionales o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request.
