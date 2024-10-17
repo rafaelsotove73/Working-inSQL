@@ -1,4 +1,4 @@
-# Working-inSQL
+# Working-inSQL 🚀 🐊 ☘️ ☣️
 
 Este repositorio contiene una colección de consultas Transact-SQL (T-SQL) de nivel medio-avanzado, enfocadas en la manipulación y obtención de metadatos en SQL Server.
 
